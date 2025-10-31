@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Kayla! 𖹭</h1>
 <p align="center">Probably drinking coffee ☕, daydreaming 💭, and making something cool 😎.</p>
-<p align="center">°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･</p>
+<h3 align="center">°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･</h3>
 <br>
 <div align="center">
   <a href="https://yourwebsite.com" target="_blank">
@@ -68,12 +68,9 @@
 ---
 ## 📈 GitHub Stats
 
-<!-- Total GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=kaylanrn&show_icons=true&theme=default&title_color=ff77aa&icon_color=ff77aa&text_color=ff99cc&bg_color=fff0f5"/>
 
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=kaylanrn&theme=tokyonight)
 
-
+<h3 align="center">*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚   (◍•ᴗ•◍)   ♡ *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚</h3>
 
 
