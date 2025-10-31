@@ -72,7 +72,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kaylanrn&show_icons=true&theme=default&title_color=ff77aa&icon_color=ff77aa&text_color=ff99cc&bg_color=fff0f5"/>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaylanrn&theme=default&fire=ff77aa&currStreakNum=ff99cc&currStreakLabel=ff77aa&sideNums=ff99cc&sideLabels=ff77aa&dates=ff99cc&background=fff0f5"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=kaylanrn&theme=tokyonight)
 
 
 
