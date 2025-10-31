@@ -2,7 +2,7 @@
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemp2b25hcm5yMHhvaGMwOGM3aDltbWg3cXhoZ3hwYnN1aGpzdXd4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0JMaNj0xZ6cDFLvq/giphy.gif" />
 </div> 
 
-<h1 align="center">Hi, I'm Kyutienori!</h1>
+<h1 align="center">Hi, I'm Kayla!</h1>
 <p align="center">Probably drinking coffee, daydreaming, and making something cool.</p>
 <br>
 <div align="center">
