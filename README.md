@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Email logo" />
   </a>
 
-  <a href="https://www.linkedin.com/in/kaylanrn" target="_blank">
+  <a href="https://www.linkedin.com/in/kaylanaron" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FF4F8B&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
