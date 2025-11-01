@@ -70,6 +70,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=kaylanrn&show_icons=true&theme=default&title_color=ff77aa&icon_color=ff77aa&text_color=ff99cc&bg_color=fff0f5"/>
 
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaylanrn&theme=default&background=fff0f5&ring=ff77aa&fire=ff77aa&currStreakLabel=ff99cc&sideLabels=ff99cc&dates=ff99cc&currStreakNum=ff77aa&sideNums=ff77aa" alt="GitHub Streak" />
+</a>
+
+
 
 <h3 align="center">˚༺☆༻*ੈ✩‧₊˚   (◍•ᴗ•◍)   ♡˚༺☆༻*ੈ✩‧₊˚</h3>
 
