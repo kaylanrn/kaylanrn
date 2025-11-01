@@ -71,6 +71,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kaylanrn&show_icons=true&theme=default&title_color=ff77aa&icon_color=ff77aa&text_color=ff99cc&bg_color=fff0f5"/>
 
 
-<h3 align="center">*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚   (◍•ᴗ•◍)   ♡ *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚</h3>
+<h3 align="center">˚༺☆༻*ੈ✩‧₊˚   (◍•ᴗ•◍)   ♡˚༺☆༻*ੈ✩‧₊˚</h3>
 
 
