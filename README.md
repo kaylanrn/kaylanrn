@@ -23,8 +23,9 @@
 ---
 <h2>🗂️ Projects</h2>
 
-<h4 align="left">🍅 Tomato Timer: A Pomodoro Website [Coming Soon]</h4>
+<h4 align="left">🍅 Tomato Timer: A Pomodoro Website</h4>
 <p align="left">Tomato Timer is a sleek Pomodoro productivity app that helps you focus, track tasks, and manage your time efficiently. Customize your work and break intervals, keep a to-do list, and enjoy a built-in music player for a motivating work vibe.</p>
+<p>https://pomodoro-tomato-timer.vercel.app/</p>
 
 ---
 <h2>🖥️ Tech Stack</h2>
