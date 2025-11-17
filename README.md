@@ -7,7 +7,7 @@
 <h3 align="center">°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･</h3>
 <br>
 <div align="center">
-  <a href="https://kaylanrn.vercel.app/" target="_blank">
+  <a href="https://kaylanrn.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=EA4C89&logoColor=white&style=for-the-badge" height="35" alt="Website logo" />
   </a>
 
@@ -24,7 +24,7 @@
 <h2>🗂️ Projects</h2>
 
 <h4 align="left">
-  <a href="https://pomodoro-tomato-timer.vercel.app/">🍅 Tomato Timer: A Pomodoro Website</a>
+  <a href="https://pomodoro-tomato-timer.vercel.app/" target="_blank" rel="noopener noreferrer">🍅 Tomato Timer: A Pomodoro Website</a>
 </h4>
 
 <p align="left">
